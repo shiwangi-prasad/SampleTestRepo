@@ -1,0 +1,9 @@
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csprojResolveAssemblyReference.cache
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\ExampleProject.dll
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\WebDriver.dll
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\WebDriver.xml
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.dll
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\nunit.framework.dll
+C:\Users\shiwangip\documents\visual studio 2012\Projects\ExampleProject\ExampleProject\bin\Debug\nunit.framework.xml
